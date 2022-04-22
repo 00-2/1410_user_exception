@@ -1,5 +1,4 @@
 //
-// Created by c0sta on 22.04.2022.
 //
 
 #ifndef INC_1486_SQUARE_INVALIDPOINT_H
