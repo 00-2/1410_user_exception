@@ -10,7 +10,6 @@ private:
 
     float x,y,z;
 public:
-    Point_In_Cube();
     void print();
 
     Point_In_Cube(float X, float Y, float Z);
